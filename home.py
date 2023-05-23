@@ -1,5 +1,5 @@
 import urllib.request
-import gender_guesser.detector as gender
+#import gender_guesser.detector as gender
 import requests
 import xmltodict
 import streamlit as st
