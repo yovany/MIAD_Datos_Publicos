@@ -1,7 +1,7 @@
 import urllib.request
 #import gender_guesser.detector as gender
 import requests
-import xmltodict
+#import xmltodict
 import streamlit as st
 import seaborn as sns
 import matplotlib.pyplot as plt
